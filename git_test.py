@@ -1,2 +1,3 @@
 def selamla():
-    print("merhabalar...")
+    userName = "nova"
+    print ("Hoşgeldin "+userName)
