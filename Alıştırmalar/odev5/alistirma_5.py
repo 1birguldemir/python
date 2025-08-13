@@ -10,7 +10,6 @@ import math
 #         i+=1
 #     return toplam == sayi
 
-# liste = []
 # for num in range(1,1001):
 #     if muk_sayi(num):
 #         print(num)
@@ -62,10 +61,11 @@ import math
 
 
 #pisagor
-liste = list()
+
 def pisagor_ucgeni():
+    liste = list()
     for a in range(1,101):
-        for b in range(1,101):
+        for b in range(a,101):
             c2 = a*a +b*b
             c = math.isqrt(c2)
             if c*c == c2:               
