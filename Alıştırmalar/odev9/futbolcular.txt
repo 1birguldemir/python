@@ -1,0 +1,69 @@
+Oğuzhan Özyakup,Beşiktaş
+Gökhan Gönül,Beşiktaş
+İsmail Köybaşı,Fenerbahçe
+Atiba Hutchinson,Beşiktaş
+Serdar Aziz,Galatasaray
+Fernandão,Fenerbahçe
+Ahmet Çalık,Galatasaray
+Salih Uçan,Fenerbahçe
+Hasan Ali Kaldırım,Fenerbahçe
+Volkan Demirel,Fenerbahçe
+Younès Belhanda,Galatasaray
+Denys Boyko,Beşiktaş
+Emrah Başsan,Galatasaray
+Tarık Çamdal,Galatasaray
+Martin Škrtel,Fenerbahçe
+Cenk Tosun,Beşiktaş
+Josef de Souza,Fenerbahçe
+Luis Cavanda,Galatasaray
+Atınç Nukan,Beşiktaş
+Hakan Balta,Galatasaray
+Lionel Carole,Galatasaray
+Ricardo Quaresma,Beşiktaş
+Şener Özbayraklı,Fenerbahçe
+Ozan Tufan,Fenerbahçe
+Duško Tošic,takim == "Fenerbahçe":
+Mehmet Topal,Fenerbahçe
+Simon Kjær,Fenerbahçe
+Roman Neustädter,Fenerbahçe
+Mauricio Isla,Fenerbahçe
+Necip Uysal,Beşiktaş
+Nigel de Jong,Galatasaray
+Robin van Persie,Fenerbahçe
+Selcuk Pektemek,Beşiktaş
+Mariano Ferreira,Galatasaray
+Martin Linnes,Galatasaray
+Gregory van der Wiel,Fenerbahçe
+Pepe,Beşiktaş
+Alper Potuk,Fenerbahçe
+Mehmet Ekici,Fenerbahçe
+Caner Erkin,Beşiktaş
+Tolga Zengin,Beşiktaş
+Gökhan Töre,Beşiktaş
+Tolgay Arslan,Beşiktaş
+Selçuk İnan,Galatasaray
+Pedro Franco,Beşiktaş
+Idriss Carlos Kameni,Fenerbahçe
+Eren Derdiyok,Galatasaray
+Aras Özbiliz,Beşiktaş
+Veli Kavlak,Beşiktaş
+Andreas Beck,Beşiktaş
+Mathieu Valbuena,Fenerbahçe
+Sinan Gümüş,Galatasaray
+Nabil Dirar,Fenerbahçe
+Aatif Chahechouhe,Fenerbahçe
+Ryan Donk,Galatasaray
+Yasin Öztekin,Galatasaray
+Garry Rodrigues,Galatasaray
+Miroslav Stoch,Fenerbahçe
+Tolga Ciğerci,Galatasaray
+Maicon Pereira,Galatasaray
+Ryan Babel,Beşiktaş
+Alexander Miloševic,Beşiktaş
+Talisca,Beşiktaş
+Bafétimbi Gomis,Galatasaray
+Fernando Muslera,Galatasaray
+Volkan Şen,Fenerbahçe
+Utku Yuvakuran,BeşiktaşEray İşcan,Galatasaray
+Uygar Zeybek,Fenerbahçe
+Koray Günter,Galatasaray
