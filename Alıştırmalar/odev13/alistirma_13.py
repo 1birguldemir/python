@@ -6,7 +6,7 @@
 
 #     def __iter__(self):
 #         return self
-    
+
 #     def __next__(self):
 #         if self.sayi <= self.max:
 #             sonuc = self.sayi ** 2
@@ -26,21 +26,45 @@
 # print(next(iteration))
 
 #2
-def asal_sayilar():
-    for sayi in range(2,1000):
-        for i in range(2,sayi):
-            if sayi % i ==0:
-                break
-        else:
-            yield sayi
+# def asal_sayilar():
+#     for sayi in range(2,1000):
+#         for i in range(2,sayi):
+#             if sayi % i ==0:
+#                 break
+#         else:
+#             yield sayi
 
-generator = asal_sayilar()
-iterator = iter(generator)
-print(next(iterator))
-print(next(iterator))
-print(next(iterator))
-print(next(iterator))
-print(next(iterator))
-print(next(iterator))
-print(next(iterator))
+# generator = asal_sayilar()
+# iterator = iter(generator)
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
 
+# for i in asal_sayilar():
+#     print(i)
+
+
+#2 farklı çözüm
+def asal_mi(sayi):
+    i = 2
+    while i < sayi:
+        if sayi % i == 0:
+            return False
+        i += 1
+    return True
+    
+def asal_generator():
+    i = 2
+    while True:
+        if asal_mi(i):
+            yield i
+        i += 1
+
+for asal in asal_generator():
+    if asal>1000:
+        break
+    print(asal)
